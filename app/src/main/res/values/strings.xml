@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project115</string>
+    <string name="date">Select Date</string>
+
+    <string-array name="origin">
+        <item>Market! Market!</item>
+        <item>Nutriasia</item>
+        <item>RCBC</item>
+        <item>Net One</item>
+        <item>Bonifacio Stopover</item>
+        <item>Crescent Park West</item>
+        <item>The Globe Tower</item>
+        <item>One Parkade</item>
+        <item>University Parkway</item>
+    </string-array>
+    <string-array name="destination">
+    <item>Market! Market!</item>
+    <item>Nutriasia</item>
+    <item>RCBC</item>
+    <item>Net One</item>
+    <item>Bonifacio Stopover</item>
+    <item>Crescent Park West</item>
+    <item>The Globe Tower</item>
+    <item>One Parkade</item>
+    <item>University Parkway</item>
+    </string-array>
+    <string-array name="pay">
+        <item>BEEP</item>
+        <item>7-11 / ECPay</item>
+        <item>Mobile Payments</item>
+        <item>Credit Card</item>
+    </string-array>
+</resources>
